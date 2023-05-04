@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Album Challenge 4.0
+# Album Challenge 5.0
 This is a Discord bot I created for my discord music server. 
 It was built around the idea of having a music challenge on the server, and it works as follows:
 * Users can add album releases to the bot, which comprises all submissions into a list; 
