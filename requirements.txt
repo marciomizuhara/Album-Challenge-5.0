@@ -1,0 +1,8 @@
+discord
+pytz
+pandas
+numpy
+wordcloud
+discogs_client
+discogs-client
+bs4
